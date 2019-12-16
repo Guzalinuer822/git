@@ -9,4 +9,7 @@ public class login {
 
         System.out.println("Now I am writing second time in IntelliJ");
 
-        System.out.println("******* line 12 direct pull");g
+        System.out.println("******* line 12 direct pull");
+    }
+    
+}
